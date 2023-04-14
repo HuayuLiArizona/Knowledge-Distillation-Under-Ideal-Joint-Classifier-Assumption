@@ -1,3 +1,3 @@
-# Knowledge-Distillation-Under-Joint-Optimal-Classifier-Assumption
+# Knowledge-Distillation-Under-Ideal-Joint-Classifier-Assumption
 
 coming soon
