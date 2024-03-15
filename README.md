@@ -1,6 +1,6 @@
 # Knowledge-Distillation-Under-Ideal-Joint-Classifier-Assumption
 
-PyTorch Implement of [Knowledge distillation under ideal joint classifier assumption]([https://www.example.com](https://www.sciencedirect.com/science/article/pii/S0893608024000844), accepted to Neural Networks, Volume 173, May 2024.
+PyTorch Implement of [Knowledge distillation under ideal joint classifier assumption](https://www.sciencedirect.com/science/article/pii/S0893608024000844), accepted to Neural Networks, Volume 173, May 2024.
 
 
 
